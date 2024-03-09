@@ -1,6 +1,6 @@
 **Introduction**
 
-This repository contains the data, Power BI report, and business report for a movie recommendation system project. It leverages three CSV files: movies.csv, ratings.csv, and users.csv.
+This repository contains the data, Power BI report, and business report for a movie rating project. It leverages three CSV files: movies.csv, ratings.csv, and users.csv.
 
 **Data**
 
